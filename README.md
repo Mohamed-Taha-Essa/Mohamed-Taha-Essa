@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with python</h2>
+<h2 align="left">I code with:</h2>
 
 ###
 
@@ -44,6 +44,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Mohamed-Taha-Essa/count.svg?"  />
 </div>
 
 ###

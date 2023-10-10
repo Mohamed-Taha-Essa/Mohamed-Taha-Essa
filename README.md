@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey there 👋 I'm Mohamed?</h1>
 
 ###
 
-<h2 align="left">My name is Mohamed Abdallah, I'm a<br>Python Developer from 2020 and currently I'm a Full Stack Django Developer, from 6/2023.</h2>
+<h2 align="left">I'm a Full Stack Django Developer.</h2>
 
 ###
 

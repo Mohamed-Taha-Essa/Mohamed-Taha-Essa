@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Django Framework.<br>🎯 Goals: Be professional with Django Framework.</p>
+<p align="left">📚 I'm currently learning Django Framework Flask ,FastAPI ,Generative AI.<br>🎯 Goals: Be professional with Django Framework Flask ,FastAPI ,Generative AI.</p>
 
 ###
 

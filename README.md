@@ -1,8 +1,8 @@
-<h1 align="left">Hey there 👋 I'm Mohamed?</h1>
+<h1 align="left">Hey there 👋 I'm Mohamed Essa?</h1>
 
 ###
 
-<h2 align="left">I'm a Full Stack Django Developer.</h2>
+<h2 align="left">I'm a Full Stack Python Developer.</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm Software Engineer with focus on backend Django Framework Flask ,FastAPI ,Generative AI.<br>🎯 Goals: Be professional with Django Framework Flask ,FastAPI ,Generative AI.</p>
+<p align="left">📚 I'm Software Engineer with focus on backend Django Framework Flask ,FastAPI ,Generative AI, React ,Next.Js<br>🎯 Goals: Be professional with Django Framework Flask ,FastAPI ,Generative AI.</p>
 
 ###
 
